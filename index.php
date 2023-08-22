@@ -191,9 +191,10 @@ https://templatemo.com/tm-576-snapx-photography
     <div class="container">
       <div class="row">
         <div class="col-lg-10 offset-lg-1">
-          <div class="header-text">
+          <div class="header-text" style="position: relative; bottom: 12vh;">
             <h2>Marcas de <em>Qualidade</em></h2>
-            <p>Todos os serviços que você precisa em um só lugar!</p>
+            <hr style="color: white; position: relative; bottom: 2vh;">
+            <p style="position: relative; bottom: 12vh; border-top: 0px;"> Todos os serviços que você precisa em um só lugar!</p>
             <div class="buttons">
               <!-- <div class="big-border-button">
                 <a href="#">Explorar</a>
@@ -210,7 +211,7 @@ https://templatemo.com/tm-576-snapx-photography
   <!-- ***** Main Banner Area End ***** -->
 
 
-  <section class="featured-items" id="featured-items" style="position: relative; bottom: 12vh;">
+  <section class="featured-items" id="featured-items" style="position: relative; bottom: 43vh;">
     <div class="container">
       <h2 class="text-center" style="color: rgb(206, 206, 206);">Destaques</h2>
       <br>

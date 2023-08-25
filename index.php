@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-
+    
     <title>Marcas de Qualidade</title>
 
     <!-- Bootstrap core CSS -->
@@ -32,45 +32,71 @@ https://templatemo.com/tm-576-snapx-photography
 
 <body>
 
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a style="width:15%;" class="navbar-brand" href="#">
+    <img style="width:250px; height:60px;" src="assets/3/logo.png">
+    </a>
+    <button style="border: 1px solid black" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div style="width:85%" class="collapse navbar-collapse justify-content-center" id="navbarNav">
+      <ul style="width:50%" class=" navbar-nav justify-content-around">
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#">INÍCIO</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#">EMPRESAS</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#">SOBRE</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#">CONTATO</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
-  <!-- ***** Header Area Start ***** -->
+  <!-- ***** Header Area Start ***** 
   <header class="header-area header-sticky">
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <nav class="main-nav">
-                    <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
-                      <img src="assets/3/logo.jpg" class="img-fluid" style="height: 8vh;">
+                <nav style="width:100%; height: 100px; display: flex; justify-content:center; align-items:center;" class="main-nav">
+                     ***** Logo Start ***** 
+                    <a style="height:100%;" href="index.html" class="logo">
+                      <img src="assets/3/logo.png" class="img-fluid" style="height: 8vh;">
                     </a>
-                    <!-- ***** Logo End ***** -->
-                    <!-- ***** Menu Start ***** -->
-                    <ul class="nav">
-                        <li><a href="index.html" class="active">Inicio</a></li>
-                        <!-- <li class="has-sub">
+                     ***** Logo End ***** -->
+                    <!-- ***** Menu Start ***** 
+                    <ul style="width: 50%; height:100%;" class="nav">
+                        <li><a href="index.php" class="active">Inicio</a></li>
+                         <li class="has-sub">
                             <a href="javascript:void(0)">Photos &amp; Videos</a>
                             <ul class="sub-menu">
                                 <li><a href="contests.html">Contests</a></li>
                                 <li><a href="contest-details.html">Single Contest</a></li>
                             </ul>
-                        </li> -->
+                        </li> 
                         <li><a href="sobre.html">Sobre</a></li>
                         <li><a href="contato.html">Contato</a></li>
                     </ul>   
-                    <!-- <div class="border-button">
+                     <div class="border-button">
                       <a id="modal_trigger" href="#modal" class="sign-in-up"><i class="fa fa-user"></i> Sign In/Up</a>
                     </div> -->
                     <!-- <a class='menu-trigger'>
                         <span>Menu</span>
                     </a> -->
-                    <!-- ***** Menu End ***** -->
+                    <!-- ***** Menu End ***** 
                 </nav>
             </div>
         </div>
     </div>
   </header>
   
-        <!-- <div class="social_login">
+         <div class="social_login">
             <div class="">
                 <a href="#" class="social_box fb">
                     <span class="icon"><i class="fab fa-facebook"></i></span>
@@ -94,7 +120,7 @@ https://templatemo.com/tm-576-snapx-photography
             </div>
         </div>
 
-        <!-- Username & Password Login form -->
+        Username & Password Login form -->
         <!-- <div class="user_login">
             <form action="" method="post">
                 <label>Email / Username</label>
@@ -119,7 +145,7 @@ https://templatemo.com/tm-576-snapx-photography
             <a href="#" class="forgot_password">Forgot password?</a>
         </div>
 
-        <!-- Register Form -->
+         Register Form -->
         <!-- <div class="user_register">
             <form action="" method="post">
                 <label>Username</label>
@@ -187,6 +213,7 @@ https://templatemo.com/tm-576-snapx-photography
     </button>
   </div> -->
   <!-- ***** Main Banner Area Start ***** -->
+
   <div class="main-banner">
     <div class="container">
       <div class="row">
@@ -679,7 +706,7 @@ https://templatemo.com/tm-576-snapx-photography
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2023 <a href="#">devs.icon</a> Fabricio Ferreira e Vinicio Eufrazio desenvolvedores. 
+          <p>Copyright © 2023 <a href="#">Devs Icon</a> - Fabricio Ferreira e Vinicio Eufrazio
           <br>
           
           Design: <a title="CSS Templates" rel="sponsored" href="https://templatemo.com/page/1" target="_blank">TemplateMo</a> Distribution: <a title="CSS Templatesss" rel="sponsored" href="https://themewagon.com" target="_blank">ThemeWagon</a></p>

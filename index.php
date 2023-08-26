@@ -243,7 +243,7 @@ https://templatemo.com/tm-576-snapx-photography
   </section>
 
 
-  <section class="popular-categories">
+  <section style="margin-top:-120px" class="popular-categories">
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-6">
@@ -554,7 +554,7 @@ https://templatemo.com/tm-576-snapx-photography
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2023 <a href="#">Devs Icon</a> - Fabricio Ferreira e Vinicio Eufrazio
+          <p>Copyright © 2023 <a href="#">DevIcon</a> - Fabricio Ferreira | Vinicio Eufrazio | Victor Carlos
           <br>
           
           Design: <a title="CSS Templates" rel="sponsored" href="https://templatemo.com/page/1" target="_blank">TemplateMo</a> Distribution: <a title="CSS Templatesss" rel="sponsored" href="https://themewagon.com" target="_blank">ThemeWagon</a></p>

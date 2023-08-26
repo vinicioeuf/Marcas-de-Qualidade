@@ -12,11 +12,13 @@
     <title>Marcas de Qualidade</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
 
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="assets/css/fontawesome.css">
+    
     <link rel="stylesheet" href="assets/css/templatemo-snapx-photography.css">
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/animate.css">
@@ -59,160 +61,6 @@ https://templatemo.com/tm-576-snapx-photography
   </div>
 </nav>
 
-  <!-- ***** Header Area Start ***** 
-  <header class="header-area header-sticky">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <nav style="width:100%; height: 100px; display: flex; justify-content:center; align-items:center;" class="main-nav">
-                     ***** Logo Start ***** 
-                    <a style="height:100%;" href="index.html" class="logo">
-                      <img src="assets/3/logo.png" class="img-fluid" style="height: 8vh;">
-                    </a>
-                     ***** Logo End ***** -->
-                    <!-- ***** Menu Start ***** 
-                    <ul style="width: 50%; height:100%;" class="nav">
-                        <li><a href="index.php" class="active">Inicio</a></li>
-                         <li class="has-sub">
-                            <a href="javascript:void(0)">Photos &amp; Videos</a>
-                            <ul class="sub-menu">
-                                <li><a href="contests.html">Contests</a></li>
-                                <li><a href="contest-details.html">Single Contest</a></li>
-                            </ul>
-                        </li> 
-                        <li><a href="sobre.html">Sobre</a></li>
-                        <li><a href="contato.html">Contato</a></li>
-                    </ul>   
-                     <div class="border-button">
-                      <a id="modal_trigger" href="#modal" class="sign-in-up"><i class="fa fa-user"></i> Sign In/Up</a>
-                    </div> -->
-                    <!-- <a class='menu-trigger'>
-                        <span>Menu</span>
-                    </a> -->
-                    <!-- ***** Menu End ***** 
-                </nav>
-            </div>
-        </div>
-    </div>
-  </header>
-  
-         <div class="social_login">
-            <div class="">
-                <a href="#" class="social_box fb">
-                    <span class="icon"><i class="fab fa-facebook"></i></span>
-                    <span class="icon_title">Connect with Facebook</span>
-
-                </a>
-
-                <a href="#" class="social_box google">
-                    <span class="icon"><i class="fab fa-google-plus"></i></span>
-                    <span class="icon_title">Connect with Google</span>
-                </a>
-            </div>
-
-            <div class="centeredText">
-                <span>Or use your Email address</span>
-            </div>
-
-            <div class="action_btns">
-                <div class="one_half"><a href="#" id="login_form" class="btn">Login</a></div>
-                <div class="one_half last"><a href="#" id="register_form" class="btn">Sign up</a></div>
-            </div>
-        </div>
-
-        Username & Password Login form -->
-        <!-- <div class="user_login">
-            <form action="" method="post">
-                <label>Email / Username</label>
-                <input name="username" type="text" id="username" />
-              <br />
-
-                <label>Password</label>
-                <input name="password" type="password" id="password" />
-              <br />
-
-                <div class="checkbox">
-                    <input id="remember" type="checkbox" />
-                    <label for="remember">Remember me on this computer</label>
-                </div>
-
-                <div class="action_btns">
-                    <div class="one_half"><a href="#" class="btn back_btn"><i class="fa fa-angle-double-left"></i> Back</a></div>
-                    <div class="one_half last"><button type="submit" class="btn btn_red">Login</button></div>
-                </div>
-            </form>
-
-            <a href="#" class="forgot_password">Forgot password?</a>
-        </div>
-
-         Register Form -->
-        <!-- <div class="user_register">
-            <form action="" method="post">
-                <label>Username</label>
-                <input name="username" type="text" id="username" />
-                <br />
-
-                <label>Email Address</label>
-                <input name="email" type="email" id="email" />
-                <br />
-
-                <label>Password</label>
-                <input name="password" type="password" id="password" />
-                <br />
-
-                <div class="checkbox">
-                    <input id="send_updates" type="checkbox" />
-                    <label for="send_updates">Send me occasional email updates</label>
-                </div>
-
-                <div class="action_btns">
-                    <div class="one_half"><a href="#" class="btn back_btn"><i class="fa fa-angle-double-left"></i> Back</a></div>
-                    <div class="one_half last"><button type="submit" class="btn btn_red">Register</button></div>
-                </div>
-            </form>
-        </div>
-        
-    </section>
-  </div> -->
-  <!-- <div id="carouselExampleCaptions" class="carousel slide">
-    <div class="carousel-indicators">
-      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    </div>
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="assets/3/agir.jpg" class="d-block w-100" alt="...">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>First slide label</h5>
-          <p>Some representative placeholder content for the first slide.</p>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="assets/3/angelus3.jpg" class="d-block w-100" alt="...">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Second slide label</h5>
-          <p>Some representative placeholder content for the second slide.</p>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="assets/3/" class="d-block w-100" alt="...">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Third slide label</h5>
-          <p>Some representative placeholder content for the third slide.</p>
-        </div>
-      </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
-    </button>
-  </div> -->
-  <!-- ***** Main Banner Area Start ***** -->
 
   <div class="main-banner">
     <div class="container">

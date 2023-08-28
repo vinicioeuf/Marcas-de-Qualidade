@@ -12,7 +12,7 @@
     <title>Marcas de Qualidade</title>
 
     <!-- Bootstrap core CSS -->
-    <!-- <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> 
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
@@ -67,9 +67,9 @@ https://templatemo.com/tm-576-snapx-photography
       <div class="row">
         <div class="col-lg-10 offset-lg-1">
           <div class="header-text" style="position: relative; bottom: 12vh;">
-            <h2>Marcas de <em>Qualidade</em></h2>
-            <hr style="color: white; position: relative; bottom: 2vh;">
-            <p style="position: relative; bottom: 12vh; border-top: 0px;"> Todos os serviços que você precisa em um só lugar!</p>
+            <h2 style="position: relative; bottom: 4vh; border-top: 0px;">Marcas de <em>Qualidade</em></h2>
+            <p style="position: relative; bottom: 7vh; border-top: 0px;"> Todos os serviços que você precisa em um só lugar!</p>
+            <hr style="color: white; position: relative; bottom: 11vh;">
             <div class="buttons">
               <!-- <div class="big-border-button">
                 <a href="#">Explorar</a>
@@ -89,6 +89,7 @@ https://templatemo.com/tm-576-snapx-photography
   <section class="featured-items" id="featured-items" style="position: relative; bottom: 43vh;">
     <div class="container">
       <h2 class="text-center" style="color: rgb(206, 206, 206);">Destaques</h2>
+      <br>
       <br>
       <div class="row">
         <div class="col-lg-12">

@@ -68,8 +68,8 @@ https://templatemo.com/tm-576-snapx-photography
         <div class="col-lg-10 offset-lg-1">
           <div class="header-text" style="position: relative; bottom: 12vh;">
             <h2 style="position: relative; bottom: 4vh; border-top: 0px;">Marcas de <em>Qualidade</em></h2>
-            <p style="position: relative; bottom: 7vh; border-top: 0px;"> Todos os serviços que você precisa em um só lugar!</p>
-            <hr style="color: white; position: relative; bottom: 11vh;">
+            <p style="position: relative; bottom: 9vh; border-top: 0px;"> Todos os serviços que você precisa em um só lugar!</p>
+            <hr style="color: white; position: relative; bottom: 9vh;">
             <div class="buttons">
               <!-- <div class="big-border-button">
                 <a href="#">Explorar</a>

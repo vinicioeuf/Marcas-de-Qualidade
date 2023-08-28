@@ -275,7 +275,7 @@ https://templatemo.com/tm-576-snapx-photography
               <span class="likes"><i class="fa fa-heart"></i> 256</span>
             </div>
             <div class="border-button">
-              <a href="contest-details.html">Ver marca</a>
+              <a href="marca.php">Ver marca</a>
             </div>
           </div>
         </div>

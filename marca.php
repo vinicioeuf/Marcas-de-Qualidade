@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Marcas de Qualidade</title>
     <meta charset="utf-8">
     <meta name="author" content="templatemo">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
     
-    <title>Marcas de Qualidade</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> 
@@ -89,7 +88,7 @@ https://templatemo.com/tm-576-snapx-photography
                 <span  style="display: flex; justify-content: center; align-items:center; border-radius: 20px; width: 200px;  color: rgb(83, 83, 250); box-shadow: -5px 0px 5px rgba(0, 0, 0, 0.5), 5px 0px 5px rgba(0, 0, 0, 0.5), 0px 5px 5px rgba(0, 0, 0, 0.5);"><i class="fa fa-star"></i> 4.5</span>
             </div>
             <div class="main-button">
-                <a  style=" text-align: center; width: 250px;" href="">Ver</a>
+                <a  style=" text-align: center; width: 250px;" href="https://dx.ind.br">Acessar</a>
             </div>
         </div>
         <div style="width: 700px; margin-left: 20px; margin-right: 20px;">
